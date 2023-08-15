@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루�
 		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.Performance Measurement", "Src\3.Performance Measurement\3.Performance Measurement.vcxproj", "{5050012E-476C-4171-A66B-ACC456F71ABE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -36,6 +38,14 @@ Global
 		{487B0424-C7A7-4AA0-82BD-9897ADDA29AF}.Release|x64.Build.0 = Release|x64
 		{487B0424-C7A7-4AA0-82BD-9897ADDA29AF}.Release|x86.ActiveCfg = Release|Win32
 		{487B0424-C7A7-4AA0-82BD-9897ADDA29AF}.Release|x86.Build.0 = Release|Win32
+		{5050012E-476C-4171-A66B-ACC456F71ABE}.Debug|x64.ActiveCfg = Debug|x64
+		{5050012E-476C-4171-A66B-ACC456F71ABE}.Debug|x64.Build.0 = Debug|x64
+		{5050012E-476C-4171-A66B-ACC456F71ABE}.Debug|x86.ActiveCfg = Debug|Win32
+		{5050012E-476C-4171-A66B-ACC456F71ABE}.Debug|x86.Build.0 = Debug|Win32
+		{5050012E-476C-4171-A66B-ACC456F71ABE}.Release|x64.ActiveCfg = Release|x64
+		{5050012E-476C-4171-A66B-ACC456F71ABE}.Release|x64.Build.0 = Release|x64
+		{5050012E-476C-4171-A66B-ACC456F71ABE}.Release|x86.ActiveCfg = Release|Win32
+		{5050012E-476C-4171-A66B-ACC456F71ABE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
